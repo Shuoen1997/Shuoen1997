@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello there, welcome to my Github repo! 
 
-<!--
-**Shuoen1997/Shuoen1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Facts about me 
+- :woman_technologist: My name is Shuo-En Li, also go by SueAnne or Sue.
+- :school_satchel: UC Santa Cruz alumni (2019) majored in Computer Science Game Design 
+- :office: Now working as a Software Engineer in Test (test automation is my passion!) 
+- :hatching_chick: Learning Flask web development and Flutter mobile development on the side
+- :toolbox: Interested in DevOps practices / CI/CD pipeline   
+- :snake: Comfort programming language is Python 
+- :turtle: Some other programming languages I dabble in are JavaScript, Java, C#, Dart
+- :ocean: Favourite animal is the majestic sea flap flap 
 
-Here are some ideas to get you started:
+- :mailbox_with_no_mail: Shoot me an email if you want to get in touch! shuoenli819@gmail.com 
+- :sparkles: And stop by my personal website to check out the things I'm working on! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Have a great day and enjoy your stay, friend! :) 
